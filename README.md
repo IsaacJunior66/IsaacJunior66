@@ -1,6 +1,6 @@
 ### Olá, Eu sou Isaac Júnior
 
-Como desenvolvedor júnior dedicado, busco uma posição para aprimorar minhas habilidades em desenvolvimento web. Pretendo aplicar meu conhecimento em tecnologias front-end
+Como desenvolvedor júnior dedicado, busco uma posição para aprimorar minhas habilidades em desenvolvimento web. Pretendo aplicar meu conhecimento em tecnologias front-end.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
