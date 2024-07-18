@@ -1,9 +1,9 @@
 OWNER: VEX - Inove seu negócio digitalmente 
+https://isaacjunior66.github.io/VEX/
 
 
 
 
-### Olá, Eu sou Isaac Júnior
 
 Como desenvolvedor júnior dedicado, busco uma posição para aprimorar minhas habilidades em desenvolvimento web. Pretendo aplicar meu conhecimento em tecnologias front-end.
 
