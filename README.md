@@ -1,3 +1,7 @@
+owner: VEX - INOVE SEU NEOGÓCIO DIGITALMENTE 
+
+
+
 ### Olá, Eu sou Isaac Júnior
 
 Como desenvolvedor júnior dedicado, busco uma posição para aprimorar minhas habilidades em desenvolvimento web. Pretendo aplicar meu conhecimento em tecnologias front-end.
