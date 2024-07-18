@@ -1,4 +1,5 @@
-owner: VEX - INOVE SEU NEOGÓCIO DIGITALMENTE 
+OWNER: VEX - Inove seu negócio digitalmente 
+
 
 
 
