@@ -1,4 +1,4 @@
-OWNER: VEX - Inove seu negócio digitalmente 
+OWNER: VEX - Inove seu negócio digitalmente.
 https://isaacjunior66.github.io/VEX/
 
 
